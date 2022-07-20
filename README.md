@@ -19,4 +19,4 @@ Travertine
 
 without any style of failure or vulnerability
 
-Translated with www.DeepL.com/Translator (free version)
+the plugin requires HSecurity API license
